@@ -1,7 +1,7 @@
 // Identity.ID Tests.swift
 
 import Testing
-import Testing_Extras
+import Testing
 @testable import Identities
 
 // Test tags for type safety verification
@@ -14,7 +14,7 @@ private typealias OrderID = Identity.ID<OrderTag, Identity.UUID>
 extension Identity {
     // Create a test-only ID type for testing the generic ID behavior
     enum IDTests {
-        #TestSuites
+        #Tests
     }
 }
 
