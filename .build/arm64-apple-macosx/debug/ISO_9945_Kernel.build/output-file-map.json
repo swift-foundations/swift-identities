@@ -1,0 +1,670 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Clock.Continuous.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Clock.Continuous.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Clock.Continuous.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Clock.Continuous~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Clock.Continuous.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Clock.Continuous.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Atomic.Flag.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Atomic.Flag.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Atomic.Flag.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Atomic.Flag~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Atomic.Flag.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Atomic.Flag.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Clock.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Clock.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Clock.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Clock~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Clock.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Clock.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Close.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Close.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Close.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Close~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Close.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Close.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Copy.Clone.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Clone.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Clone.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Clone~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Clone.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Clone.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Copy.Range.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Range.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Range.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Range~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Range.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Copy.Range.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Descriptor.Duplicate.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Descriptor.Duplicate.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Descriptor.Duplicate.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Descriptor.Duplicate~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Descriptor.Duplicate.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Descriptor.Duplicate.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Device.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Device.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Device.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Device~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Device.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Device.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Directory.Create.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Create.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Create.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Create~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Create.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Create.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Directory.Remove.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Remove.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Remove.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Remove~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Remove.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Remove.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Directory.Working.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Working.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Working.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Working~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Working.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.Working.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Directory.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Directory.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Environment.Entries.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Entries.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Entries.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Entries~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Entries.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Entries.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Environment.Error.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Error.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Error.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Error.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.Error.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Environment.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Environment.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Error.Code.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Code.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Code.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Code~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Code.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Code.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Error.Mapping.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Mapping.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Mapping.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Mapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Mapping.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Mapping.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Error.Number.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Number.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Number.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Number~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Number.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.Number.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Error.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Error.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Attributes.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Attributes.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Attributes.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Attributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Attributes.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Attributes.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Chown.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Chown.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Chown.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Chown~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Chown.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Chown.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Clone.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Clone.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Clone.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Clone~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Clone.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Clone.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Control.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Control.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Control.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Control~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Control.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Control.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Delete.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Delete.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Delete.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Delete~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Delete.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Delete.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Flush.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Flush.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Flush.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Flush~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Flush.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Flush.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Move.Extensions.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.Extensions.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.Extensions.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.Extensions.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.Extensions.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Move.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Move.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Open.Mode.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Mode.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Mode.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Mode~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Mode.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Mode.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Open.Options.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Options.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Options.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Options.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.Options.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Open.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Open.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Seek.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Seek.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Seek.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Seek~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Seek.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Seek.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Stats.Get.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Stats.Get.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Stats.Get.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Stats.Get~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Stats.Get.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Stats.Get.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.File.Times.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Times.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Times.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Times~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Times.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.File.Times.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.IO.Read.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Read.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Read.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Read~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Read.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Read.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.IO.Write.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Write.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Write.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Write~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Write.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.IO.Write.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Link.Symbolic.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.Symbolic.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.Symbolic.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.Symbolic~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.Symbolic.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.Symbolic.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Link.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Link.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Lock.Token.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.Token.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.Token.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.Token~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.Token.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.Token.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Lock.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Lock.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Allocation.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Allocation.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Allocation.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Allocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Allocation.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Allocation.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Lock.All.Flags.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.Flags.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.Flags.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.Flags~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.Flags.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.Flags.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Lock.All.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.All.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Lock.POSIX.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.POSIX.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.POSIX.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.POSIX~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.POSIX.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.POSIX.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Lock.Range.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.Range.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.Range.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.Range~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.Range.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Lock.Range.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Advice.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advice.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advice.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advice~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advice.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advice.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Advise.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advise.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advise.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advise~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advise.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Advise.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Anonymous.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Anonymous.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Anonymous.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Anonymous~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Anonymous.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Anonymous.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Flags.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Flags.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Flags.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Flags~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Flags.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Flags.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Protection.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Protection.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Protection.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Protection~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Protection.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Protection.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.Sync.Flags.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Sync.Flags.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Sync.Flags.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Sync.Flags~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Sync.Flags.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.Sync.Flags.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Map.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Map.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Shared.Access.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Access.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Access.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Access~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Access.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Access.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Shared.Options.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Options.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Options.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Options.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.Options.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Memory.Shared.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Memory.Shared.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Path.Canonical.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Path.Canonical.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Path.Canonical.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Path.Canonical~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Path.Canonical.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Path.Canonical.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Pipe.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Pipe.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Pipe.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Pipe~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Pipe.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Pipe.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Error.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Error.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Error.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Error.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Error.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Execute.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Execute.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Execute.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Execute.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Execute.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Exit.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Exit.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Exit.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Exit~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Exit.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Exit.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Fork.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Fork.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Fork.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Fork~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Fork.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Fork.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Group.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Group.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Group.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Group~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Group.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Group.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.ID.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.ID.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.ID.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.ID~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.ID.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.ID.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Kill.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Kill.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Kill.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Kill~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Kill.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Kill.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Session.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Session.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Session.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Session.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Session.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Spawn.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Spawn.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Spawn.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Spawn~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Spawn.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Spawn.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Status.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Status.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Status.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Status~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Status.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Status.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Wait.Options.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.Options.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.Options.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.Options.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.Options.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Process.Wait.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Process.Wait.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Random.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Random.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Random.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Random.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Random.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Action.Configuration.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Configuration.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Configuration.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Configuration.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Configuration.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Action.Flags.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Flags.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Flags.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Flags~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Flags.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Flags.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Action.Handler.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Handler.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Handler.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Handler~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Handler.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.Handler.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Action.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Action.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Error.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Error.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Error.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Error.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Error.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Mask.How.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.How.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.How.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.How~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.How.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.How.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Mask.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Mask.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Number.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Number.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Number.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Number~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Number.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Number.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Send.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Send.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Send.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Send~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Send.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Send.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.Set.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Set.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Set.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Set~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Set.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.Set.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Signal.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Signal.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Socket.Backlog.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Backlog.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Backlog.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Backlog~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Backlog.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Backlog.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Socket.Flags.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Flags.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Flags.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Flags~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Flags.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Flags.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Socket.Pair.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Pair.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Pair.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Pair~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Pair.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Pair.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Socket.Shutdown.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Shutdown.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Shutdown.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Shutdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Shutdown.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.Shutdown.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Socket.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Socket.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.System.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.System.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.System.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.System~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.System.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.System.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.TTY.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.TTY.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.TTY.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.TTY~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.TTY.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.TTY.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Termios.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Termios.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Termios.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Termios~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Termios.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Termios.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Thread.Condition.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Condition.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Condition.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Condition~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Condition.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Condition.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Thread.Handle.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Handle.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Handle.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Handle~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Handle.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Handle.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Thread.Mutex.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Mutex.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Mutex.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Mutex~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Mutex.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.Mutex.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Thread.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Thread.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.Time.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Time.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Time.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Time~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Time.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.Time.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Kernel.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Kernel.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-iso-9945/Sources/ISO 9945 Kernel/ISO 9945.Terminal.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Terminal.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Terminal.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Terminal~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Terminal.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/ISO_9945_Kernel.build/ISO 9945.Terminal.dia"
+  }
+}

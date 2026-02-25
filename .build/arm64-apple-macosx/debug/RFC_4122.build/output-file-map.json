@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.UUID.Error.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Error.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Error.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Error.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Error.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.UUID.Generation.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Generation.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Generation.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Generation~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Generation.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Generation.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.UUID.Variant.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Variant.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Variant.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Variant~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Variant.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Variant.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.UUID.Version.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Version.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Version.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Version~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Version.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.Version.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.UUID.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.UUID.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/RFC_4122.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/RFC_4122.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/String+RFC_4122.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/String+RFC_4122.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/String+RFC_4122.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/String+RFC_4122~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/String+RFC_4122.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/String+RFC_4122.dia"
+  },
+  "/Users/coen/Developer/swift-standards/swift-rfc-4122/Sources/RFC 4122/[UInt8]+RFC_4122.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/[UInt8]+RFC_4122.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/[UInt8]+RFC_4122.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/[UInt8]+RFC_4122~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/[UInt8]+RFC_4122.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/RFC_4122.build/[UInt8]+RFC_4122.dia"
+  }
+}

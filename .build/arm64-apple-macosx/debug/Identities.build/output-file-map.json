@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-foundations/swift-identities/Sources/Identities/Exports.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Exports.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Exports.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Exports.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Exports.dia"
+  },
+  "/Users/coen/Developer/swift-foundations/swift-identities/Sources/Identities/Identity.ID.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.ID.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.ID.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.ID~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.ID.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.ID.dia"
+  },
+  "/Users/coen/Developer/swift-foundations/swift-identities/Sources/Identities/Identity.UUID.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.UUID.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.UUID.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.UUID.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.UUID.dia"
+  },
+  "/Users/coen/Developer/swift-foundations/swift-identities/Sources/Identities/Identity.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Identities.build/Identity.dia"
+  }
+}

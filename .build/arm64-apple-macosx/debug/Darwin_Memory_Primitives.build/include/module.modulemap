@@ -1,0 +1,3 @@
+module Darwin_Memory_Primitives {
+    header "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Memory_Primitives.build/include/Darwin Memory Primitives-Swift.h"
+}

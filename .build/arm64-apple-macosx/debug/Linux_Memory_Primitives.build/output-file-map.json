@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-linux-primitives/Sources/Linux Memory Primitives/Linux.Memory.Allocation.Statistics.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.Statistics.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.Statistics.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.Statistics~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.Statistics.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.Statistics.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-linux-primitives/Sources/Linux Memory Primitives/Linux.Memory.Allocation.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.Allocation.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-linux-primitives/Sources/Linux Memory Primitives/Linux.Memory.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Linux_Memory_Primitives.build/Linux.Memory.dia"
+  }
+}

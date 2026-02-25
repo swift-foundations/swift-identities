@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-windows-primitives/Sources/Windows Memory Primitives/Windows.Memory.Allocation.Statistics.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.Statistics.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.Statistics.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.Statistics~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.Statistics.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.Statistics.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-windows-primitives/Sources/Windows Memory Primitives/Windows.Memory.Allocation.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.Allocation.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-windows-primitives/Sources/Windows Memory Primitives/Windows.Memory.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Windows_Memory_Primitives.build/Windows.Memory.dia"
+  }
+}

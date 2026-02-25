@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/master.swiftdeps"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-darwin-primitives/Sources/Darwin Loader Primitives/Darwin.Loader.Image.Header.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.Header.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.Header.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.Header~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.Header.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.Header.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-darwin-primitives/Sources/Darwin Loader Primitives/Darwin.Loader.Image.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Image.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-darwin-primitives/Sources/Darwin Loader Primitives/Darwin.Loader.Section.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Section.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Section.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Section~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Section.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.Section.dia"
+  },
+  "/Users/coen/Developer/swift-primitives/swift-darwin-primitives/Sources/Darwin Loader Primitives/Darwin.Loader.swift": {
+    "dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.d",
+    "object": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.swift.o",
+    "swiftmodule": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader~partial.swiftmodule",
+    "swift-dependencies": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.swiftdeps",
+    "diagnostics": "/Users/coen/Developer/swift-foundations/swift-identities/.build/arm64-apple-macosx/debug/Darwin_Loader_Primitives.build/Darwin.Loader.dia"
+  }
+}

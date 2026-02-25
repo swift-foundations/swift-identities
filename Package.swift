@@ -30,7 +30,13 @@ let package = Package(
                 .product(name: "RFC 9562", package: "swift-rfc-9562"),
                 .product(name: "Random", package: "swift-random")
             ]
-        )
+        ),
+        .testTarget(
+            name: "Identities Tests",
+            dependencies: [
+                "Identities",
+            ]
+        ),
     ],
     swiftLanguageModes: [.v6]
 )
@@ -41,6 +47,7 @@ for target in package.targets where ![.system, .binary, .plugin, .macro].contain
         .enableUpcomingFeature("ExistentialAny"),
         .enableUpcomingFeature("InternalImportsByDefault"),
         .enableUpcomingFeature("MemberImportVisibility"),
+        .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
         .enableExperimentalFeature("Lifetimes"),
         .enableExperimentalFeature("SuppressedAssociatedTypes"),
         .enableExperimentalFeature("SuppressedAssociatedTypesWithDefaults"),
