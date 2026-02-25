@@ -6,7 +6,12 @@ import RFC_4122
 @testable import Identities
 
 extension Identity.UUID {
-    #Tests
+    enum Test {
+        @Suite struct Unit {}
+        @Suite struct EdgeCase {}
+        @Suite struct Integration {}
+        @Suite(.serialized) struct Performance {}
+    }
 }
 
 // MARK: - Unit Tests
