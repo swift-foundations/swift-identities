@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         .package(path: "../../swift-primitives/swift-identity-primitives"),
-        .package(path: "../../swift-standards/swift-rfc-9562"),
+        .package(path: "../../swift-ietf/swift-rfc-9562"),
         .package(path: "../swift-random")
     ],
     targets: [
