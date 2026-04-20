@@ -26,23 +26,23 @@ extension Identity {
 // MARK: - Unit Tests
 
 extension Identity.IDTests.Test.Unit {
-    @Test("ID wraps UUID correctly")
-    func wrapUUID() throws {
+    @Test
+    func `ID wraps UUID correctly`() throws {
         let uuid = try Identity.UUID.random()
         let userId = UserID(uuid)
         #expect(userId.rawValue == uuid)
     }
 
-    @Test("IDs with same UUID are equal within same tag")
-    func equalitySameTag() throws {
+    @Test
+    func `IDs with same UUID are equal within same tag`() throws {
         let uuid = try Identity.UUID.random()
         let userId1 = UserID(uuid)
         let userId2 = UserID(uuid)
         #expect(userId1 == userId2)
     }
 
-    @Test("IDs with different UUIDs are not equal")
-    func inequalityDifferentUUID() throws {
+    @Test
+    func `IDs with different UUIDs are not equal`() throws {
         let uuid1 = try Identity.UUID.random()
         let uuid2 = try Identity.UUID.random()
         let userId1 = UserID(uuid1)
@@ -50,8 +50,8 @@ extension Identity.IDTests.Test.Unit {
         #expect(userId1 != userId2)
     }
 
-    @Test("Hashable works for sets")
-    func hashableSet() throws {
+    @Test
+    func `Hashable works for sets`() throws {
         let uuid1 = try Identity.UUID.random()
         let uuid2 = try Identity.UUID.random()
 
@@ -63,8 +63,8 @@ extension Identity.IDTests.Test.Unit {
         #expect(set.count == 2)
     }
 
-    @Test("Different tag types have same rawValue but are distinct types")
-    func distinctTags() throws {
+    @Test
+    func `Different tag types have same rawValue but are distinct types`() throws {
         let uuid = try Identity.UUID.random()
         let userId = UserID(uuid)
         let orderId = OrderID(uuid)
@@ -79,15 +79,15 @@ extension Identity.IDTests.Test.Unit {
 // MARK: - Edge Cases
 
 extension Identity.IDTests.Test.EdgeCase {
-    @Test("ID with integer raw value")
-    func integerRawValue() {
+    @Test
+    func `ID with integer raw value`() {
         typealias IntID = Identity.ID<UserTag, Int>
         let id = IntID(42)
         #expect(id.rawValue == 42)
     }
 
-    @Test("ID with string raw value")
-    func stringRawValue() {
+    @Test
+    func `ID with string raw value`() {
         typealias StringID = Identity.ID<UserTag, String>
         let id = StringID("user-123")
         #expect(id.rawValue == "user-123")
