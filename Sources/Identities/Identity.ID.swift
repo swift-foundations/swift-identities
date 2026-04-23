@@ -1,7 +1,7 @@
 // Identity.ID.swift
 // Type-safe domain-tagged identifiers.
 
-public import Identity_Primitives
+public import Tagged_Primitives
 
 extension Identity {
     /// A domain-tagged identifier with compile-time type safety.
