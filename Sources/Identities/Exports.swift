@@ -2,5 +2,4 @@
 // Re-exports for swift-identities umbrella module.
 
 @_exported public import Tagged_Primitives
-@_exported public import RFC_9562
-@_exported public import Random
+@_exported public import UUIDs

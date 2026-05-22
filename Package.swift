@@ -19,16 +19,14 @@ let package = Package(
     ],
     dependencies: [
         .package(path: "../../swift-primitives/swift-tagged-primitives"),
-        .package(path: "../../swift-ietf/swift-rfc-9562"),
-        .package(path: "../swift-random")
+        .package(path: "../swift-uuids")
     ],
     targets: [
         .target(
             name: "Identities",
             dependencies: [
                 .product(name: "Tagged Primitives", package: "swift-tagged-primitives"),
-                .product(name: "RFC 9562", package: "swift-rfc-9562"),
-                .product(name: "Random", package: "swift-random")
+                .product(name: "UUIDs", package: "swift-uuids")
             ]
         ),
         .testTarget(
