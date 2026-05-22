@@ -1,9 +1,7 @@
 // Identity.UUID.swift
 // UUID type with random generation support.
 
-public import RFC_4122
-public import RFC_9562
-public import Random
+public import UUIDs
 
 extension Identity {
     /// Universally Unique Identifier per RFC 9562.
@@ -31,10 +29,10 @@ extension Identity {
 // MARK: - Random Generation
 
 extension Identity.UUID {
-    /// Generates a random version 4 UUID using the system CSPRNG.
+    /// Generates a random version 4 UUID using the platform CSPRNG.
     ///
-    /// Version 4 UUIDs contain 122 bits of random data with version (4)
-    /// and variant (RFC 4122) bits set appropriately.
+    /// Delegates to `RFC_4122.UUID.v4()` from `swift-uuids`, which binds the
+    /// L2 parametric generator to the platform CSPRNG via `Random.fill(_:)`.
     ///
     /// - Returns: A random v4 UUID.
     /// - Throws: `Random.Error` if random bytes cannot be generated.
@@ -47,32 +45,6 @@ extension Identity.UUID {
     /// print(uuid.variant)  // .rfc4122
     /// ```
     public static func random() throws(Random.Error) -> Self {
-        // Generate 16 random bytes
-        var bytes: (
-            UInt8, UInt8, UInt8, UInt8,
-            UInt8, UInt8, UInt8, UInt8,
-            UInt8, UInt8, UInt8, UInt8,
-            UInt8, UInt8, UInt8, UInt8
-        ) = (0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-
-        let outcome: Result<Void, Random.Error> = Swift.withUnsafeMutableBytes(of: &bytes) { buffer in
-            do throws(Random.Error) {
-                try Random.fill(buffer)
-                return .success(())
-            } catch {
-                return .failure(error)
-            }
-        }
-        try outcome.get()
-
-        // Set version 4 (random UUID) in byte 6, high nibble
-        // Byte 6 = time_hi_and_version, bits 12-15 are version
-        bytes.6 = (bytes.6 & 0x0F) | 0x40
-
-        // Set variant (RFC 4122) in byte 8, bits 6-7
-        // Byte 8 = clock_seq_hi_and_reserved, bits 6-7 are variant
-        bytes.8 = (bytes.8 & 0x3F) | 0x80
-
-        return Self(bytes: bytes)
+        try RFC_4122.UUID.v4()
     }
 }
