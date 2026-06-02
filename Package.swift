@@ -18,8 +18,8 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(path: "../../swift-primitives/swift-tagged-primitives"),
-        .package(path: "../swift-uuids")
+        .package(url: "https://github.com/swift-primitives/swift-tagged-primitives.git", branch: "main"),
+        .package(url: "https://github.com/swift-foundations/swift-uuids.git", branch: "main")
     ],
     targets: [
         .target(
