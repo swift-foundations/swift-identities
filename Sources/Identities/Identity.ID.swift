@@ -43,5 +43,5 @@ extension Identity {
     ///     typealias ID = Identity.ID<Session, String>
     /// }
     /// ```
-    public typealias ID<Domain, RawValue> = Tagged<Domain, RawValue>
+    public typealias ID<Domain: ~Copyable & ~Escapable, RawValue> = Tagged<Domain, RawValue>
 }
