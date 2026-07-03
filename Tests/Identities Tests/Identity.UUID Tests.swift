@@ -81,9 +81,11 @@ extension Identity.UUID.Test.EdgeCase {
 
 // MARK: - Performance
 
-extension Identity.UUID.Test.Performance {
-    @Test("random() generation", .timed(iterations: 100, warmup: 10))
-    func randomGeneration() throws {
-        _ = try Identity.UUID.random()
-    }
-}
+// TODO(W2): re-enable once the `.timed` trait is wired via a nested test package
+// (blocked on the swift-async W2 cascade / testing-institute nested-package pattern).
+// extension Identity.UUID.Test.Performance {
+//     @Test("random() generation", .timed(iterations: 100, warmup: 10))
+//     func randomGeneration() throws {
+//         _ = try Identity.UUID.random()
+//     }
+// }

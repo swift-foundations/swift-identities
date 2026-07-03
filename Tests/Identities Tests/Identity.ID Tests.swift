@@ -30,7 +30,7 @@ extension Identity.IDTests.Test.Unit {
     func `ID wraps UUID correctly`() throws {
         let uuid = try Identity.UUID.random()
         let userId = UserID(uuid)
-        #expect(userId.rawValue == uuid)
+        #expect(userId.underlying == uuid)
     }
 
     @Test
@@ -70,7 +70,7 @@ extension Identity.IDTests.Test.Unit {
         let orderId = OrderID(uuid)
 
         // Same underlying value
-        #expect(userId.rawValue == orderId.rawValue)
+        #expect(userId.underlying == orderId.underlying)
         // But different types - cannot be compared directly
         // This is a compile-time guarantee
     }
@@ -83,13 +83,13 @@ extension Identity.IDTests.Test.EdgeCase {
     func `ID with integer raw value`() {
         typealias IntID = Identity.ID<UserTag, Int>
         let id = IntID(42)
-        #expect(id.rawValue == 42)
+        #expect(id.underlying == 42)
     }
 
     @Test
     func `ID with string raw value`() {
-        typealias StringID = Identity.ID<UserTag, String>
+        typealias StringID = Identity.ID<UserTag, Swift.String>
         let id = StringID("user-123")
-        #expect(id.rawValue == "user-123")
+        #expect(id.underlying == "user-123")
     }
 }
