@@ -14,13 +14,15 @@ private typealias OrderID = Identity.ID<OrderTag, Identity.UUID>
 extension Identity {
   // Create a test-only ID type for testing the generic ID behavior
   enum IDTests {
-    enum Test {
-      @Suite struct Unit {}
-      @Suite struct EdgeCase {}
-      @Suite struct Integration {}
-      @Suite(.serialized) struct Performance {}
-    }
+    enum Test {}
   }
+}
+
+extension Identity.IDTests.Test {
+  @Suite struct Unit {}
+  @Suite struct EdgeCase {}
+  @Suite struct Integration {}
+  @Suite(.serialized) struct Performance {}
 }
 
 // MARK: - Unit Tests
