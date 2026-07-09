@@ -11,14 +11,9 @@ private enum OrderTag {}
 private typealias UserID = Identity.ID<UserTag, Identity.UUID>
 private typealias OrderID = Identity.ID<OrderTag, Identity.UUID>
 
-extension Identity {
-  // Create a test-only ID type for testing the generic ID behavior
-  enum IDTests {
-    enum Test {}
-  }
-}
-
-extension Identity.IDTests.Test {
+// `Identity.ID` is generic (Tagged<Domain, RawValue>); the extension pattern is not
+// viable here ([SWIFT-TEST-003]) — use the backticked top-level parallel namespace.
+@Suite struct `Identity.ID Tests` {
   @Suite struct Unit {}
   @Suite struct EdgeCase {}
   @Suite struct Integration {}
@@ -27,7 +22,7 @@ extension Identity.IDTests.Test {
 
 // MARK: - Unit Tests
 
-extension Identity.IDTests.Test.Unit {
+extension `Identity.ID Tests`.Unit {
   @Test
   func `ID wraps UUID correctly`() throws {
     let uuid = try Identity.UUID.random()
@@ -80,7 +75,7 @@ extension Identity.IDTests.Test.Unit {
 
 // MARK: - Edge Cases
 
-extension Identity.IDTests.Test.EdgeCase {
+extension `Identity.ID Tests`.EdgeCase {
   @Test
   func `ID with integer raw value`() {
     typealias IntID = Identity.ID<UserTag, Int>
