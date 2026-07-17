@@ -15,7 +15,7 @@ private typealias OrderID = Identity.ID<OrderTag, Identity.UUID>
 // viable here ([SWIFT-TEST-003]) — use the backticked top-level parallel namespace.
 @Suite struct `Identity.ID Tests` {
   @Suite struct Unit {}
-  @Suite struct EdgeCase {}
+  @Suite struct `Edge Case` {}
   @Suite struct Integration {}
   @Suite(.serialized) struct Performance {}
 }
