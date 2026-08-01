@@ -5,11 +5,11 @@ import Testing
 @testable import Identities
 
 // Test tags for type safety verification
-private enum UserTag {}
-private enum OrderTag {}
+private enum User {}
+private enum Order {}
 
-private typealias UserID = Identity.ID<UserTag, Identity.UUID>
-private typealias OrderID = Identity.ID<OrderTag, Identity.UUID>
+private typealias UserID = Identity.ID<User, Identity.UUID>
+private typealias OrderID = Identity.ID<Order, Identity.UUID>
 
 // `Identity.ID` is generic (Tagged<Domain, RawValue>); the extension pattern is not
 // viable here ([SWIFT-TEST-003]) — use the backticked top-level parallel namespace.
@@ -78,14 +78,14 @@ extension `Identity.ID Tests`.Unit {
 extension `Identity.ID Tests`.EdgeCase {
   @Test
   func `ID with integer raw value`() {
-    typealias IntID = Identity.ID<UserTag, Int>
+    typealias IntID = Identity.ID<User, Int>
     let id = IntID(42)
     #expect(id.underlying == 42)
   }
 
   @Test
   func `ID with string raw value`() {
-    typealias StringID = Identity.ID<UserTag, Swift.String>
+    typealias StringID = Identity.ID<User, Swift.String>
     let id = StringID("user-123")
     #expect(id.underlying == "user-123")
   }
